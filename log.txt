@@ -1,0 +1,9 @@
+* 4970a0f add .gitignore
+*   738f071 Merge branch 'feature-c'
+|\  
+| * a87c200 feature-c: изменить строку 4
+* | 35a5d00 main: изменить строку 4
+|/  
+* 9b5ec5e feature-a: добавить содержание 4-ой строки
+* e2e953d feature-a: добавить содержание 3-ей строки
+* 09c51cc first commit
